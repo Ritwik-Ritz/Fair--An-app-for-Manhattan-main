@@ -1,0 +1,50 @@
+#spring.application.name=profile-service
+
+server:
+  port: 8080
+springdoc:
+  api-docs:
+    path: /api-docs
+  swagger-ui:
+    path: /swagger-ui.html
+    enabled: true
+
+logging:
+  file:
+    name: logs/app.log
+
+myapp:
+  api:
+    openweather:
+      key: 73863d988ca614db6d58b25c1ff14029
+
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/rp
+    username: root
+    password: TheR00t_ofALLevil2!
+    driver-class-name: com.mysql.cj.jdbc.Driver
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+    properties:
+      hibernate:
+        format_sql: true
+    database: mysql
+    database-platform: org.hibernate.dialect.MySQLDialect
+
+  mail:
+    host: smtp.gmail.com
+    port: 587
+    username: fairquality.ny@gmail.com
+    password: doqxgxkkxezyactx
+    properties:
+      mail:
+        smtp:
+          auth: true
+          starttls:
+            enable: true
+
+  application:
+    name: webapp

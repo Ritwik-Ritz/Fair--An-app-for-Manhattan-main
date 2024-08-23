@@ -1,0 +1,1 @@
+This package contains interfaces that extend Spring Data JPA which is used for handling data logic.

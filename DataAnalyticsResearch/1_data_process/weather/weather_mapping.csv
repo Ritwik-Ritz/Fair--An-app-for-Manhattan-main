@@ -1,0 +1,46 @@
+Description,Weather ID
+Cloudy,804
+Partly Cloudy,801
+Mostly Cloudy,803
+Fair,800
+Light Rain,500
+Mostly Cloudy / Windy,803
+Rain / Windy,501
+Heavy Rain / Windy,502
+Light Rain / Windy,500
+Cloudy / Windy,804
+Wintry Mix / Windy,616
+Partly Cloudy / Windy,801
+Fair / Windy,800
+Rain,501
+Light Rain with Thunder,200
+T-Storm,211
+Wintry Mix,616
+Light Drizzle,300
+Fog,741
+Haze,721
+Light Snow,600
+Light Snow and Sleet,612
+Snow and Sleet,613
+Snow,601
+Light Snow / Windy,600
+Light Drizzle / Windy,300
+T-Storm / Windy,211
+Heavy Rain,502
+Drizzle and Fog,301
+Thunder,211
+Thunder in the Vicinity,211
+Haze / Windy,721
+Smoke / Windy,711
+Smoke,711
+Heavy T-Storm,212
+Mist,701
+Heavy T-Storm / Windy,212
+Heavy Rain / Fog,502
+Mist / Windy,701
+Light Freezing Rain,511
+Snow / Fog,601
+Heavy Snow / Fog,602
+Light Rain / Fog,500
+Thunder and Hail / Fog,211
+Fog / Windy,741

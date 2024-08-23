@@ -1,0 +1,1 @@
+This package handles all the http requests (GET, POST, PUT, DELETE) and responses. 

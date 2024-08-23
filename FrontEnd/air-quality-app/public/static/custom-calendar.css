@@ -1,0 +1,26 @@
+/* https://medium.com/@suvarna.kale/react-calendar-customization-4bdf89d04dbb */
+
+.react-calendar {
+    width: 100% !important;
+  }
+
+.react-calendar__navigation {
+  color: #1f1b13 !important;
+}
+  .react-calendar__month-view__days__day--weekend {
+    color: #1f1b13 !important;
+  }
+  .react-calendar__month-view__weekdays {
+    color: #1f1b13 !important;
+  }
+  .react-calendar__month-view__days__day {
+    color: #1f1b13 !important;
+  }
+  
+  .react-calendar__tile--now {
+    background-color: grey !important;
+  }
+  
+  .react-calendar__month-view__days__day--neighboringMonth {
+    visibility: hidden;
+  }

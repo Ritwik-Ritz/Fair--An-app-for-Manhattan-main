@@ -1,0 +1,1 @@
+This package contains entity classes that mapped to database tables.
